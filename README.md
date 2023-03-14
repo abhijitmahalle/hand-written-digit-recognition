@@ -1,3 +1,6 @@
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Description:
 In this project, I have implemented a Support vector machine (Linear Kernel, Polynomial Kernel, RBF Kernel), Logistic Regression, and Convolutional Neural Network to achieve hand-written digits recognition on an MNIST data set. The purpose of this project is to understand fundamentally how these methods work and to learn how to tune hyperparameters in these methods.
 
@@ -86,9 +89,3 @@ Hyperparameter Tuning and Result:
 
 ## Requirement
 Python 2.0 or above
-
-## License
-
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Copyright (c) Feb 2023 Pradip Kathiriya
